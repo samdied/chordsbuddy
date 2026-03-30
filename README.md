@@ -25,11 +25,11 @@ ChordBuddy is designed for **JS developers** building **Web Audio API** applicat
    ```bash
    git clone [https://github.com/samdied/chordbuddy.git](https://github.com/samdied/chordbuddy.git)
 
-Bash
+2. **Install**
    ```bash
    npm install
 
-Bash
+3. **Bash**
    ```bash
    npm run dev
    
