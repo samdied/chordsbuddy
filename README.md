@@ -24,3 +24,8 @@ ChordBuddy is designed for **JS developers** building **Web Audio API** applicat
 1. **Clone the repo:**
    ```bash
    git clone [https://github.com/samdied/chordbuddy.git](https://github.com/samdied/chordbuddy.git)
+   ```bash
+   npm install
+   ```bash
+   npm run dev
+   
